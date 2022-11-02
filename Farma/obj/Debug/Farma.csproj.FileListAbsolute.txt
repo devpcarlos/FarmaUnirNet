@@ -1,0 +1,11 @@
+D:\ESPECIALIZACION\Primer Semestre\Modulo 1\Plataforma de Desarrollo\Net\Farma\Farma\bin\Debug\Farma.exe.config
+D:\ESPECIALIZACION\Primer Semestre\Modulo 1\Plataforma de Desarrollo\Net\Farma\Farma\bin\Debug\Farma.exe
+D:\ESPECIALIZACION\Primer Semestre\Modulo 1\Plataforma de Desarrollo\Net\Farma\Farma\bin\Debug\Farma.pdb
+D:\ESPECIALIZACION\Primer Semestre\Modulo 1\Plataforma de Desarrollo\Net\Farma\Farma\obj\Debug\Farma.csproj.AssemblyReference.cache
+D:\ESPECIALIZACION\Primer Semestre\Modulo 1\Plataforma de Desarrollo\Net\Farma\Farma\obj\Debug\Farma.csproj.SuggestedBindingRedirects.cache
+D:\ESPECIALIZACION\Primer Semestre\Modulo 1\Plataforma de Desarrollo\Net\Farma\Farma\obj\Debug\Farma.Form1.resources
+D:\ESPECIALIZACION\Primer Semestre\Modulo 1\Plataforma de Desarrollo\Net\Farma\Farma\obj\Debug\Farma.Properties.Resources.resources
+D:\ESPECIALIZACION\Primer Semestre\Modulo 1\Plataforma de Desarrollo\Net\Farma\Farma\obj\Debug\Farma.csproj.GenerateResource.cache
+D:\ESPECIALIZACION\Primer Semestre\Modulo 1\Plataforma de Desarrollo\Net\Farma\Farma\obj\Debug\Farma.csproj.CoreCompileInputs.cache
+D:\ESPECIALIZACION\Primer Semestre\Modulo 1\Plataforma de Desarrollo\Net\Farma\Farma\obj\Debug\Farma.exe
+D:\ESPECIALIZACION\Primer Semestre\Modulo 1\Plataforma de Desarrollo\Net\Farma\Farma\obj\Debug\Farma.pdb
